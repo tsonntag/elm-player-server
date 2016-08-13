@@ -1,0 +1,14 @@
+{
+  "name": "player-server",
+  "version": "1.0.0",
+  "description": "Server for http://www.elm-tutorial.org/en/04-starting/02-backend.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Sonntag",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.8.17"
+  }
+}
